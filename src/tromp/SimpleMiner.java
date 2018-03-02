@@ -1,4 +1,4 @@
-// Cuckoo Cycle, a memory-hard proof-of-work
+package tromp;// Cuckoo Cycle, a memory-hard proof-of-work
 // Copyright (c) 2013-2016 John Tromp
 
 import java.util.Set;
